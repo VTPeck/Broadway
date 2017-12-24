@@ -1,0 +1,43 @@
+#banner {
+  background-image: url('../pics/background.png');
+  color: white;
+  font-size: 18px;
+}
+#banner h1 {
+  font-size: 70px;
+}
+body {
+  font-family: Helvetica;
+  text-align: center;
+  background-color: black;
+}
+p {
+  font-size: 14px;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+#nybanner {
+  font-weight: bold;
+  color: white;
+  background-image: url('../pics/background.png');
+}
+#page {
+  background-color: white;
+}
+#footer p {
+  font-size: 11px;
+}
+#footer a {
+  font-size: 18px;
+}
+#footer {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
